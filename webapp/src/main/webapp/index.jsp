@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning !!! Keep practicing and See You Again. </h1>
+   <h1> Welcome to Devops journey !!! </h1>
    
 </form>
